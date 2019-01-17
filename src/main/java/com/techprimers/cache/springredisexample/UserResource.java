@@ -45,4 +45,6 @@ public class UserResource {
     public Map<String, User> all() {
         return userRepository.findAll();
     }
+
+    //sa
 }
