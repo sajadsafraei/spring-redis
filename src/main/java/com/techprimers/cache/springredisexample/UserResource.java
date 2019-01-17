@@ -46,5 +46,4 @@ public class UserResource {
         return userRepository.findAll();
     }
 
-    //sa
 }
